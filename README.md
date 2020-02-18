@@ -1,2 +1,2 @@
 # auto-aws-python
-Automating AWS with Python
+*Automate AWS using Python - Jay Shankar*
